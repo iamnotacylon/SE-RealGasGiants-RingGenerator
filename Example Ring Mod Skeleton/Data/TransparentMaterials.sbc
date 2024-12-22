@@ -4,14 +4,14 @@
 		<TransparentMaterial>
 			<Id>
 				<TypeId>TransparentMaterialDefinition</TypeId>
-				<SubtypeId>RingMaterialColor_Rattium1</SubtypeId>
+				<SubtypeId>RingMaterialColor_YourRingNameHere</SubtypeId>
 			</Id>
 			<AlphaMistingEnable>false</AlphaMistingEnable>
 			<AlphaSaturation>1</AlphaSaturation>
 			<CanBeAffectedByOtherLights>true</CanBeAffectedByOtherLights>
 			<IgnoreDepth>false</IgnoreDepth>
 			<SoftParticleDistanceScale>0</SoftParticleDistanceScale>
-			<Texture>Textures/gasGiantRing_Rats1.dds</Texture>
+			<Texture>Textures/gasGiantRing_YourRingNameHere.dds</Texture>
 			<UseAtlas>false</UseAtlas>
 			<UVOffset>
 				<X>0</X>
