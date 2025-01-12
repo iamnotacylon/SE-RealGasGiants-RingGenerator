@@ -4,7 +4,9 @@
  Note that standard python version shenanigans may apply (see relevant xkcd: https://xkcd.com/1987/).
 
 # Create the ring textures
- To use this generator, make sure you have the relevant python3 packages installed, and run ring_gen.py with python. There are many settings tunable at the top of this file, and you can obviously adjust it how you want for your own purposes, but we think the default ones are usually pretty good.
+ To use this generator, make sure you have the relevant python3 packages installed, and run ring_gen.py with python. Python 3.9.x is recommended for best results, but in theory 3.8.x or above will work. 
+ 
+ There are many settings tunable at the top of this file, and you can obviously adjust it how you want for your own purposes, but we think the default ones are usually pretty good.
  
  Running the program will generate 5 png files of ring textures for Real Gas Giants to UV map. If you don't like all or some of them, they can be re-rolled by running the program again. Any that you mostly like and think you can hand-tune the rest of the way can be edited in your favorite graphics editor.
 
