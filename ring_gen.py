@@ -40,8 +40,8 @@ sub_ring_exponent=-3 # more negative makes the sub-rings fainter.
 
 ######predefined ring gaps######
 # list of [start, end] for gaps
-defined_gaps=[[689-25,689+25], [1178-150, 1178+150], [1587-50, 1587+50], [1689-50,1689+50], [1894-50, max_outer_edge]]
-# defined_gaps = []
+# defined_gaps=[[689-25,689+25], [1178-150, 1178+150], [1587-50, 1587+50], [1689-50,1689+50], [1894-50, max_outer_edge]]
+defined_gaps = []
 
 ########################################################
 

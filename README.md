@@ -1,6 +1,8 @@
 # SE-RealGasGiants-RingGenerator
  This is a program, set of instructions, and mod skeleton to create ring textures usable with the Real Gas Giants mod for Space Engineers (https://steamcommunity.com/workshop/filedetails/?id=3232085677).
 
+ Note that standard python version shenanigans may apply (see relevant xkcd: https://xkcd.com/1987/).
+
 # Create the ring textures
  To use this generator, make sure you have the relevant python3 packages installed, and run ring_gen.py with python. There are many settings tunable at the top of this file, and you can obviously adjust it how you want for your own purposes, but we think the default ones are usually pretty good.
  
